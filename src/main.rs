@@ -1,10 +1,16 @@
 pub mod day_1;
+pub mod day_10;
+pub mod day_11;
+pub mod day_12;
 pub mod day_2;
 pub mod day_3;
 pub mod day_4;
 pub mod day_5;
 pub mod day_6;
 pub mod day_7;
+pub mod day_8;
+pub mod day_9;
+pub mod template;
 
 fn main() {
     println!("Hello, world!");
@@ -20,6 +26,16 @@ fn main() {
     // day_5::part_2::solve();
     // day_6::part_1::solve();
     // day_6::part_2::solve();
-    day_7::part_1::solve();
-    day_7::part_2::solve();
+    // day_7::part_1::solve();
+    // day_7::part_2::solve();
+    // day_8::part_1::solve();
+    // day_8::part_2::solve();
+    // day_9::part_1::solve();
+    // day_9::part_2::solve();
+    // day_10::part_1::solve();
+    // day_10::part_2::solve();
+    // day_11::part_1::solve();
+    // day_11::part_2::solve();
+    // day_12::part_1::solve();
+    // day_12::part_2::solve();
 }
