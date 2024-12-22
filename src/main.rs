@@ -30,7 +30,7 @@ fn main() {
     // day_7::part_2::solve();
     // day_8::part_1::solve();
     // day_8::part_2::solve();
-    // day_9::part_1::solve();
+    day_9::part_1::solve();
     // day_9::part_2::solve();
     // day_10::part_1::solve();
     // day_10::part_2::solve();
