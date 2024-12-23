@@ -13,7 +13,7 @@ pub mod day_9;
 pub mod template;
 
 fn main() {
-    println!("Hello, world!");
+    // println!("Hello, world!");
     // day_1::part_1::solve();
     // day_1::part_2::solve();
     // day_2::part_1::solve();
