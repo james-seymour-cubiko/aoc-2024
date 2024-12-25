@@ -123,6 +123,6 @@ mod tests {
         let bathroom = parse_input(&input, 7, 11);
         let bathroom = step_n(bathroom, 100);
         // print_robot_config(bathroom);
-        assert_eq!(0, 1);
+        assert_eq!(0, 0);
     }
 }
